@@ -63,8 +63,8 @@ Throughout my career, I have worked on several notable projects:
 • Developed different tabs with different logic.
 • Used YouTube API to get different videos for movies.
 
-2) Meetqie | Vite, Vue3, SCSS, TailwindCSS, VueX, VueRouter,         | June 2023 - Present
-   WebRTC, soket.io, docker
+2) Meetqie | Vite, Vue3, SCSS, TailwindCSS, VueX, VueRouter, WebRTC, soket.io, docker        | June 2023 - Present
+   
 
 • Developed a frontend application using Vue, VueRouter, Vuex for statemanagement, SCSS and
 . TailwindCSS for styling components.
