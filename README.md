@@ -18,10 +18,10 @@ Let's build something amazing together! 🌟
 
 #### 🛠️ Technologies, APIs, Methodologies
 - *Primary*:
- • HTML | ES6+(JS) | TypeScript | axios | Webpack | Vite | WMF | Husky | Eslint | Prettier | nginx | npm 
- • Vue — Vue3 | Vuex | Pinia | Vue Router | Vuetify
- • React — Redux | MobX | React-query | react-hook-form | react-router-dom | MaterialUI
- • Styling — CSS | SCSS | SASS | TailwindCSS | Ant design | styled-components | Bootstrap
+  - HTML | ES6+(JS) | TypeScript | axios | Webpack | Vite | WMF | Husky | Eslint | Prettier | nginx | npm 
+  - Vue — Vue3 | Vuex | Pinia | Vue Router | Vuetify
+  - React — Redux | MobX | React-query | react-hook-form | react-router-dom | MaterialUI
+  - Styling — CSS | SCSS | SASS | TailwindCSS | Ant design | styled-components | Bootstrap
   - Docker, Docker Compose
   - UML
   - REST, GraphQL
