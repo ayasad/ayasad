@@ -1,6 +1,6 @@
 # 👋 Introduction
 
-Hello, I'm Nikita! 😃 An accomplished **software engineer** with 1.5 years of experience in frontend sphere. I'm highly skilled in a diverse range of **programming languages, tools, and frameworks**.
+Hello, I'm Nikita! 😃 An accomplished **software engineer** with 3 years of experience in frontend sphere. I'm highly skilled in a diverse range of **programming languages, tools, and frameworks**.
 
 From a young age, I've been driven by curiosity, always eager to **work, learn, investigate, and explore**. 🕵️ I've approached every new question with a determination to uncover the most comprehensive answers.
 
