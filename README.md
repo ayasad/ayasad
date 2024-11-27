@@ -7,7 +7,9 @@ From a young age, I've been driven by curiosity, always eager to **work, learn, 
 Let's build something amazing together! 🌟
 
 You can check my resume here -> 
+
 (RU) https://docs.google.com/document/d/1Lcdt_V7NfFNzujFDo_R2J43Gioh7A6K6LnG8PbTSWxM/edit?tab=t.0
+
 (EN) https://docs.google.com/document/d/1NeU7ZkKTuEfsikRJdAGPCxutiIM3OC8RCPkEjZHTY6Q/edit?tab=t.0
 
 
